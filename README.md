@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akash Rawat
-- 👀 I’m interested in Coding, Anime and Exploring 
+- 👀 I’m interested in Coding, Anime and Travelling
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on my ML projects
 - 📫 If you want to contact mail me at akashrawat@duck.com
